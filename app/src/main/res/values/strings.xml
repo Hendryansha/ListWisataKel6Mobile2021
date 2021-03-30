@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">List Wisata Kel6 Mobile 2021</string>
+    <string name="name_univ">Tempat Wisata</string>
+    <string name="overview">overview</string>
+    <string name="wisata_detail">Detail Wisata</string>
+    <string name="wisata_overview">Wisata Overview</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Lokasi</string>
+    <string name="name_me">KELOMPOK 6</string>
+    <string name="email_me">_______________________</string>
+    <string name="name_1">Muh. Rafli Adiyasa. M (F55118100)</string>
+    <string name="name_2">Hendryansha Irawan Palirante (F55118252)</string>
+    <string name="name_3">Nurul Munauwarah (F55118272)</string>
+    <string name="name_4">Syuaib Alwi (F55118245)</string>
+</resources>
